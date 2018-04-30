@@ -18,6 +18,8 @@ para o diretório criado.
 
 >**`mv * ../`**
 
+>**`mv .git/ ../`**
+
 >**`cd ..`**
 
 >**`rm -rf project_manager/`**
